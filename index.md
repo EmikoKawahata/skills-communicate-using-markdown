@@ -5,4 +5,4 @@
 ##### index5
 ###### index6
 
-indexの作成
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
